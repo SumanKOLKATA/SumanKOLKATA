@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/SumanKOLKATA?tab=repositories](https://github.com/SumanKOLKATA?tab=repositories)
 
-- 📫 How to reach me **kundusuman11@gmail.com**
+- 📫 How to reach me **kundusuman11@gmail.com** & **iamabir1995@gmail.com**
 
 - ⚡ Fun fact **By playing games ⚽ & 🏏**
 
