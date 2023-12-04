@@ -1,4 +1,4 @@
-<img align="center" alt="dataanalysis"  width = "1000" height = "350px" src="https://miro.medium.com/v2/resize:fit:679/1*cXdJh394X6YIzRCvXsaJzg.gif">
+<img align="center" alt="dataanalysis"  width = "1000" height = "250px" src="https://miro.medium.com/v2/resize:fit:679/1*cXdJh394X6YIzRCvXsaJzg.gif">
 
 <h1 align="center">Hi 👋, I'm Suman Kundu</h1>
 <h3 align="center">👨‍💻A Passionate Data Scientist</h3>
