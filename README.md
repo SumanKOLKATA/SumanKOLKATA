@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Suman Kundu</h1>
 <h3 align="center">👨‍💻A Passionate Data Scientist</h3>
 
-<img align="right" alt="dataanalysis" width = "300" src="https://www.cxotoday.com/wp-content/uploads/2018/09/Picture-Data-Scientist.png">
+<img align="right" alt="dataanalysis" width = "200" src="https://www.cxotoday.com/wp-content/uploads/2018/09/Picture-Data-Scientist.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumankolkata&label=Profile%20views&color=0e75b6&style=flat" alt="sumankolkata" /> </p>
 
